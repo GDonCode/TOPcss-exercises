@@ -1,0 +1,18 @@
+.odd {
+    background-color: lightcoral;
+    font-family: 'Verdana','DejaVu Sans', sans-serif;
+    font-size: 30px;
+}
+.odd.numtres {
+    font-size: 50px;
+} 
+#numdos {
+    font-size: 60px;
+    font-weight: 600;
+    color: blue;
+}
+#numquatro {
+    background-color: lightgreen;
+    font-size: 40px;
+    font-weight: 600;
+}
